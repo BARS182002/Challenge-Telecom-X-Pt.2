@@ -15,7 +15,6 @@ Este repositorio contiene el desarrollo del **challenge de predicción de cancel
 
 ## Data & Archivos
 - El archivo principal de análisis: `BARS_TelecomX_2.ipynb`
-- Dataset original: [incluir link si aplica]
 - Resultados de modelos: integrados en el notebook.
 
 ## Modelos Implementados
@@ -37,8 +36,3 @@ Este repositorio contiene el desarrollo del **challenge de predicción de cancel
 - Scikit-learn
 - Imbalanced-learn (SMOTE)
 - Jupyter Notebook / Google Colab
-
-## Cómo Ejecutar
-1. Clonar el repositorio:
-```bash
-git clone https://github.com/tu-usuario/telecomx-churn.git
